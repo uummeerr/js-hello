@@ -17,6 +17,7 @@ let name = "github"
 let accountpassword = 234234
 accountemail = "hello@gmail.com"
 let accountstate;
+name = "gitlab"
 
 
 
