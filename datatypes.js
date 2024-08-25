@@ -1,19 +1,23 @@
-"use strict" // treat all js coede as never version
-// good to write , for good Syntax
-console.log(1
-    +23)  // code readablity should be high
-console.log("hello")
+// "use strict" // treat all js coede as never version
+// // good to write , for good Syntax
+// console.log(1
+// +23)  // code readablity should be high
+// console.log("hello")
 
 
 // documentation
-// mdn
-// tc39.cs
+// mdn  (good documentation)
+// tc39.cs  (offical documentation)
 // different browser different standard
 // so not go go with the clash an organization make into place 
-// which define at the standards what should be the standard for the browser
+// which define the standards what should be the standard for the browser
+
 
 // datatypes
-// primitive data types
+
+// 1. primitive data types
+
+
 // string 
 // Number 
 // bigint 

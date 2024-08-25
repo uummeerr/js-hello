@@ -52,7 +52,7 @@ console.log(conversion)
 
 
 
-// converting  value to boolean 
+// // converting  value to boolean 
 
 let hello2 = 1
 let booleanhello = Boolean(hello2)
@@ -76,10 +76,20 @@ console.log(blueee)
 
 
 // number to String
-number same  but change type of it
+// number same  but change type of it
 let stringg = 1234
 let stringnumber = String(stringg)
 console.log(stringnumber)
 console.log(typeof stringnumber)
+
+
+
+
+
+
+let bl = "hitesh"
+let newblue = Number(bl)
+console.log(newblue)
+
 
 

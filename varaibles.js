@@ -12,16 +12,16 @@
 // accountname = "world" 
 // declaring variable without giving value to it , it will give the value of undefined (acccountstate)
 
-const accountId = 234
-let name = "github"
-let accountpassword = 234234
-accountemail = "hello@gmail.com"
-let accountstate;
-name = "gitlab"
+// const accountId = 234
+// let name = "github"
+// let accountpassword = 234234
+// accountemail = "hello@gmail.com"
+// let accountstate;
+// name = "gitlab"
 
 
 
-console.log(accountId)
-console.log(name)
-console.log(accountpassword)
-console.table([accountId, accountpassword, accountemail, accountstate])
+// console.log(accountId)
+// console.log(name)
+// console.log(accountpassword)
+// console.table([accountId, accountpassword, accountemail, accountstate])
