@@ -94,3 +94,4 @@ let helloo = "he-er-ercedfefg-fefe"
 console.log(helloo.split("-"))
 
 
+//String constructor to create a string object, it still represents a string value. The primary difference is that a String object is an object wrapper around the string value, providing additional properties and methods specific to String objects.
