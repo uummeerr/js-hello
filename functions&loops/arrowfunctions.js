@@ -187,23 +187,25 @@
 // ()() > syntax of iife
 // global scope ke pollution se problem hoti hai that is why we use iife 
 
-(function chia(){
-    //named iife
-    console.log("db connected")
-})();
+// (function chia(){
+//     //named iife
+//     console.log("db connected")
+// })();
 
 
-((name)=> {
-    // unnamed iffe
-    console.log(`db connnected ${name}`)
-})("umer")
+// ((name)=> {
+//     // unnamed iffe
+//     console.log(`db connnected ${name}`)
+// })("umer")
 
-// passig parameters in iife
-
-  
+// // passing parameters in iife
 
 
-
-
-
+(function(){
+    console.log("hello")
+})()
+(function(){
+    console.log("miko")
+})
+()
 
